@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> UPSLP - programacion web 1 </title>
+        <title> GLOSARIO PROGRAMACION WEB </title>
        
     </head>
     <body>
