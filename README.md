@@ -7,7 +7,7 @@
        
     </head>
     <body>
-    Liga de acceso: file:///C:/Users/Ferch/Desktop/index_glosario.html
+    Liga de acceso: <cite><a target="_blank" href="file:///C:/Users/Ferch/Desktop/index_glosario.html">&#9885;</a> </cite> 
         <H1>&#10097;&#10097;&#10097;&#10097; PORTAFOLIO &#10096;&#10096;&#10096; </H1>
         <h2>&laquo;&laquo;&laquo; unidad 1 &raquo;&raquo;&raquo;</h2>
         <ol>
