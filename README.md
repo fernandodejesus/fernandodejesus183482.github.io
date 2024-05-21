@@ -7,7 +7,8 @@
        
     </head>
     <body>
-    Liga de acceso: file:///C:/Users/Ferch/Desktop/index_glosario.html
+    Liga de acceso: file:///C:/Users/Ferch/Desktop/UPSLP%20-%20programacion%20web%201.html
+
         <H1>&#10097;&#10097;&#10097;&#10097; PORTAFOLIO &#10096;&#10096;&#10096; </H1>
         <h2>&laquo;&laquo;&laquo; unidad 1 &raquo;&raquo;&raquo;</h2>
         <ol>
