@@ -1,30 +1,22 @@
-❱❱❱❱ PORTAFOLIO ❰❰❰
-««« unidad 1 »»»
-Actividad numero 1
-enlace: ⚝
-descripcion tablas con informacion
-etiquetas: html head tittle body table tr td table h1 thead rowspan
-Actividad numero 2
-Actividad numero 3
-Actividad numero 4
-Actividad numero 5
-Actividad numero 6
-««« unidad 2 »»»
-Actividad numero 1
-Actividad numero 2
-Actividad numero 3
-enlace: ⚝
-descripcion abrir sitios web con imagen
-etiquetas: html head title body form fieldset legend div label input button select option img table tr th h1 border colspan file color number text readonly date time submit reset
-Actividad numero 4
-««« unidad 3 »»»
-Actividad numero 1
-Actividad numero 2
-Actividad numero 3
-Actividad numero 4
+## Portafolio - Programación Web I
+:construction: Proyecto en construcción :construction:
 
-              
-            </li>
-        </ol>
-    </body>
-</html>
+> Liga de acceso: https://cardenasanchezruben1986.github.io/
+
+ - **`Unidad 1`**
+   - `Actividad No. 1` *Estructura básica HTML5*
+   - `Actividad No. 2` *Títulos, Párrafos, Entidades, Listas*
+   - `Actividad No. 3` *Ejercicio con listas e imágenes*
+   - `Actividad No. 4` *Enlaces, Contenido (small, sup, sub, var, code, kbd, ...)*
+   - `Actividad No. 5` *Ejercicio con enlaces*
+   - `Actividad No. 6` *Imágenes y Mapa con imagen*
+ - **`Unidad 2`**
+   - `Actividad No. 1` *Examen práctico de la Unidad 1*
+   - `Actividad No. 2` *Tablas*
+   - `Actividad No. 3` *Formularios*
+   - `Actividad No. 4` *Estilos*
+ - **`Unidad 3`**
+   - `Actividad No. 1` *Examen práctico de la Unidad 2*
+   - `Actividad No. 2` *Estilos: Efectos, Animación, Transición, ...*
+   - `Actividad No. 3` *Introducción a JavaScript*
+   - `Actividad No. 4` *JavaScript con Formularios*
