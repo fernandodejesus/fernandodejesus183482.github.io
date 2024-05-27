@@ -1,7 +1,7 @@
 ## Portafolio - Programación Web I
 :construction: Proyecto en construcción :construction:
 
-> Liga de acceso: file:///C:/Users/Ferch/Desktop/index_glosario.html
+> Liga de acceso:  https://glosario.html.github.io/
 
  - **`Unidad 1`**
    - `Actividad No. 1` *Estructura básica HTML5*
