@@ -1,7 +1,7 @@
 ## Portafolio - Programación Web I
 :construction: Proyecto en construcción :construction:
 
-> Liga de acceso:  https://index_glosario.html
+> Liga de acceso:  https://index_glosario.html/
 
  - **`Unidad 1`**
    - `Actividad No. 1` *Estructura básica HTML5*
