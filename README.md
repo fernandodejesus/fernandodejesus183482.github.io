@@ -1,7 +1,7 @@
 ## Portafolio - Programación Web I
 :construction: Proyecto en construcción :construction:
 
-> Liga de acceso: <a target="_blank" href="c:\Users\Ferch\Desktop\index_glosario.html"> 
+> Liga de acceso:   <li>enlace: <cite><a target="_blank" href="c:\Users\Ferch\Desktop\index_glosario.html">&#9885;</a> </cite></li>
 
  - **`Unidad 1`**
    - `Actividad No. 1` *Estructura básica HTML5*
